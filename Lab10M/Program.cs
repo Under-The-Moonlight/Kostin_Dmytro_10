@@ -12,7 +12,7 @@ namespace Lab10M
         {
             var watch = Stopwatch.StartNew();
             int iter = 1;
-            string maze = File.ReadAllText("C:\\Users\\kosti\\Desktop\\maze.txt");
+            string maze = File.ReadAllText("C:\\maze.txt");
             string[] mazemass = maze.Split(Environment.NewLine);
             char[,] mazecharmass = new char[mazemass.Length, mazemass[0].Length];
             for (int i = 0; i < mazecharmass.GetLength(0); i++)
@@ -92,7 +92,7 @@ namespace Lab10M
                 }
             }
 
-            string maze2 = File.ReadAllText("C:\\Users\\kosti\\Desktop\\maze2.txt");
+            string maze2 = File.ReadAllText("C:\\maze2.txt");
             string[] maze2mass = maze2.Split(Environment.NewLine);
             char[,] maze2masschar = new char[maze2mass.Length, maze2mass[0].Length];
 
@@ -181,9 +181,9 @@ namespace Lab10M
             }
             watch.Stop();
             var elapsedMs = watch.ElapsedMilliseconds;
-            string PathToRecord = @"C:\\Users\\kosti\\Desktop\\Records.txt";
+            string PathToRecord = @"C:\\Records.txt";
             FiksiruemPribyl(PathToRecord, elapsedMs);
-            string records = File.ReadAllText(@"C:\\Users\\kosti\\Desktop\\Records.txt");
+            string records = File.ReadAllText(PathToRecord);
             Console.WriteLine(records);
         }
 
