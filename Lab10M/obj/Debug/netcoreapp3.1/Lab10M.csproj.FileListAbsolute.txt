@@ -1,0 +1,13 @@
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.exe
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.deps.json
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.runtimeconfig.json
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.runtimeconfig.dev.json
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.dll
+C:\Users\kosti\source\repos\Lab10M\Lab10M\bin\Debug\netcoreapp3.1\Lab10M.pdb
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.csprojAssemblyReference.cache
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.AssemblyInfoInputs.cache
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.AssemblyInfo.cs
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.csproj.CoreCompileInputs.cache
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.dll
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.pdb
+C:\Users\kosti\source\repos\Lab10M\Lab10M\obj\Debug\netcoreapp3.1\Lab10M.genruntimeconfig.cache
